@@ -1,3 +1,36 @@
-.jacketscolumn {
+body {
+  background-color: rgb(255, 246, 227);
+}
+
+.images {
+ flex-wrap: wrap;
+}
+
+.row1 {
   display: flex;
+  margin: auto;
+}
+.row2 {
+  display: flex;
+  padding: 15px;
+  margin: auto;
+}
+
+.jacketcolumn{
+  align-items: center;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+section {
+  align-items: center;
+}
+
+header {
+  text-align: center;
+  background-color: rgb(180, 219, 219);
+  color: rgb(0, 0, 0);
+  height: 100px;
+  
 }
