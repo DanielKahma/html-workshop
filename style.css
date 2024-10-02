@@ -46,3 +46,22 @@ button {
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.productrow {
+  padding: 20px;
+}
+
+.prod1 {
+  width: 45%;
+  float: left;
+  padding: 20px;
+  border: 2px solid black;
+
+}
+
+.prod2 {
+  width: 45%;
+  float: right;
+  padding: 20px;
+  border: 2px solid black;
+}
