@@ -27,6 +27,13 @@ body {
   padding: 10px;
 }
 
+.pantscolumn {
+  text-align: center;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
 
 header {
   text-align: center;
@@ -52,16 +59,18 @@ button {
 }
 
 .prod1 {
-  width: 45%;
+  width: 48%;
   float: left;
   padding: 20px;
   border: 2px solid black;
+  border-radius: 10px;
 
 }
 
 .prod2 {
-  width: 45%;
+  width: 47%;
   float: right;
   padding: 20px;
   border: 2px solid black;
+  border-radius: 10px;
 }
